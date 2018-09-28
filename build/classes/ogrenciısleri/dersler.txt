@@ -1,0 +1,6 @@
+1 Nesneye Yonelik Programlama
+2 Veri Yapýlari
+3 Olasilik Teorisi
+4 Lojik Devre Tasarimi
+5 Differential Equations
+6 Devreler ve Sistemler
